@@ -1,0 +1,51 @@
+{
+  "pages": [
+    {
+      "title": "Воспоминания",
+      "icon": "video",
+      "items": [
+        {
+          "title": "Видео 1",
+          "thumbnail": "https://img.youtube.com/vi/jE7KYweasp0/hqdefault.jpg",
+          "url": "https://www.youtube.com/shorts/jE7KYweasp0"
+        },
+        {
+          "title": "Видео 2",
+          "thumbnail": "https://img.youtube.com/vi/LG0LE09rXGs/hqdefault.jpg",
+          "url": "https://youtu.be/LG0LE09rXGs"
+        }
+      ]
+    },
+    {
+      "title": "Диксон",
+      "icon": "link",
+      "items": [
+        {
+          "title": "Архивное видео",
+          "thumbnail": "https://img.youtube.com/vi/1zaB1pE54VQ/hqdefault.jpg",
+          "url": "https://youtu.be/1zaB1pE54VQ"
+        },
+        {
+          "title": "Интервью",
+          "thumbnail": "https://img.youtube.com/vi/B5Rk195S7G4/hqdefault.jpg",
+          "url": "https://youtu.be/B5Rk195S7G4"
+        }
+      ]
+    },
+    {
+      "title": "Разное",
+      "icon": "image",
+      "items": [
+        {
+          "title": "Фото с побережья",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Pebble_Beach_Waves.JPG/800px-Pebble_Beach_Waves.JPG"
+        },
+        {
+          "title": "Справка (PDF)",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/240px-PDF_file_icon.svg.png",
+          "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        }
+      ]
+    }
+  ]
+}
